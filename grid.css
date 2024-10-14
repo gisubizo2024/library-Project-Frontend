@@ -1,0 +1,19 @@
+
+p, button {
+    width: 10%;
+}
+
+.post__action {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+}
+
+.action1 .divin {
+    width: 20px;
+}
+
+.post {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

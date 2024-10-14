@@ -1,0 +1,19 @@
+.featured {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.featured__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    gap: 5rem;
+}
+
+.featured__container {
+   align-items: center;
+}
+
+.thumbnail {
+    width:80%;
+}
+
